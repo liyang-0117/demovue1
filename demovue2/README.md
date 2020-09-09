@@ -1,4 +1,4 @@
-# deomvue2
+# demovue2
 
 ## Project setup
 ```
